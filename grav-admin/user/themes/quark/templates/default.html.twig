@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ url('theme://css/custom.css') }}">
+</head>
+<body>
+  {% include 'partials/nav.html.twig' %}
+  {% include 'partials/banner.html.twig' %}
+  <div class="container">
+    <div class="text">
+    {{ content | raw }}
+    </div>
+  </div>
+  </div>
+</body>
+</html>

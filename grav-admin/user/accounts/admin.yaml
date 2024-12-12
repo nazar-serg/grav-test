@@ -1,0 +1,11 @@
+state: enabled
+email: nazarenkoenergodar@gmail.com
+fullname: Sergiy
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$CrYNXaZ5jdwyr58E1pa1Ie.ZcbsJjaGMF0xZVonCz.0zWyd4b6OJa

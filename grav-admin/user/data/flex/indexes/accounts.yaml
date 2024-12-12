@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1734007744
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1734007743
+    key: admin
+    email: nazarenkoenergodar@gmail.com
